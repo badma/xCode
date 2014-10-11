@@ -19,3 +19,6 @@ levelScore--
 levelScore--
 
 totalScore
+
+
+var testGitHub = "positive"
