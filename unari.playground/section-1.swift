@@ -22,3 +22,5 @@ totalScore
 
 
 var testGitHub = "positive"
+
+var testGitHub = "positive2222"
